@@ -1,4 +1,6 @@
 [app]
+# (str) Source code where the main.py file lives
+source.dir = .
 title               = FacebookGuardCLI
 package.name        = fbguard
 package.domain      = com.example
